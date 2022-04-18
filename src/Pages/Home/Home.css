@@ -1,0 +1,13 @@
+.banner-section{
+    position: relative;
+}
+.banner-info{
+    position: absolute;
+    top: 270px;
+    left: 20px;
+}
+.banner-info h1{
+    text-align: justify;
+    font-size: 44px;
+    color: #1791b6;
+}
