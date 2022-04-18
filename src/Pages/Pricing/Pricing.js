@@ -3,7 +3,7 @@ import { Card, CardGroup } from 'react-bootstrap';
 
 const Pricing = () => {
     return (
-        <div>
+        <div id='pricing'>
             <h1>Our Service Pricing</h1>
             <CardGroup>
                 <Card>

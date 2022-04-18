@@ -4,7 +4,7 @@ import './Home.css'
 
 const Home = () => {
     return (
-        <div className='banner-section'>
+        <div id='home' className='banner-section'>
             <img src={banner} alt="" className='w-100' />
         </div>
     );
