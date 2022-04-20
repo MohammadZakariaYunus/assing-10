@@ -6,6 +6,7 @@ const Home = () => {
     return (
         <div id='home' className='banner-section'>
             <img src={banner} alt="" className='w-100' />
+            <button className='btn btn-info '>Book Now...</button>
         </div>
     );
 };
